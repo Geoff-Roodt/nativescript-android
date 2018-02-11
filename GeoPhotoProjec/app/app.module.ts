@@ -11,6 +11,7 @@ registerElement("Mapbox", () => map.Mapbox);
 import { AppComponent } from "./app.component";
 import {routes, navigatableComponents} from "./app.routing";
 import {FlickrService} from "./services/flickr.service";
+import {GeolocationService} from "./services/geolocation.service";
 
 @NgModule({
     bootstrap: [
@@ -28,7 +29,8 @@ import {FlickrService} from "./services/flickr.service";
         ...navigatableComponents
     ],
     providers: [
-      FlickrService
+      FlickrService,
+      GeolocationService
     ]
 })
 
