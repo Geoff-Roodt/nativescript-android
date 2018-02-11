@@ -1,18 +1,12 @@
-import { NgModule } from "@angular/core";
-import { NativeScriptRouterModule } from "nativescript-angular/router";
-import { Routes } from "@angular/router";
+import { ImagesListComponent } from "./components/imagesList-component/imagesList.component";
+import { ImageComponent } from "./components/image-component/image.component";
 
-import { ItemsComponent } from "./item/items.component";
-import { ItemDetailComponent } from "./item/item-detail.component";
-
-const routes: Routes = [
-    { path: "", redirectTo: "/items", pathMatch: "full" },
-    { path: "items", component: ItemsComponent },
-    { path: "item/:id", component: ItemDetailComponent },
+export const routes = [
+    { path: "", component: ImagesListComponent },
+    { path: "image-component/:photo_id", component: ImageComponent },
 ];
 
-@NgModule({
-    imports: [NativeScriptRouterModule.forRoot(routes)],
-    exports: [NativeScriptRouterModule]
-})
-export class AppRoutingModule { }
+export const navigatableComponents = [
+    ImagesListComponent,
+    ImageComponent
+];

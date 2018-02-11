@@ -1,17 +1,15 @@
-import { NgModule, NO_ERRORS_SCHEMA } from "@angular/core";
-import { NativeScriptModule } from "nativescript-angular/nativescript.module";
-import { AppRoutingModule } from "./app.routing";
+import { NativeScriptModule } from "nativescript-angular/platform";
+import { NgModule } from "@angular/core";
+import { NativeScriptFormsModule } from "nativescript-angular/forms";
+import { NativeScriptHttpModule } from "nativescript-angular/http";
+import { NativeScriptRouterModule } from "nativescript-angular/router";
+import { registerElement } from "nativescript-angular/element-registry";
+
+var map =require("nativescript-mapbox");
+registerElement("Mapbox", () => map.Mapbox);
+
 import { AppComponent } from "./app.component";
-
-import { ItemService } from "./item/item.service";
-import { ItemsComponent } from "./item/items.component";
-import { ItemDetailComponent } from "./item/item-detail.component";
-
-// Uncomment and add to NgModule imports if you need to use two-way binding
-// import { NativeScriptFormsModule } from "nativescript-angular/forms";
-
-// Uncomment and add to NgModule imports  if you need to use the HTTP wrapper
-// import { NativeScriptHttpModule } from "nativescript-angular/http";
+import {routes, navigatableComponents} from "./app.routing";
 
 @NgModule({
     bootstrap: [
@@ -19,21 +17,17 @@ import { ItemDetailComponent } from "./item/item-detail.component";
     ],
     imports: [
         NativeScriptModule,
-        AppRoutingModule
+        NativeScriptFormsModule,
+        NativeScriptHttpModule,
+        NativeScriptRouterModule,
+        NativeScriptRouterModule.forRoot(routes)
     ],
     declarations: [
         AppComponent,
-        ItemsComponent,
-        ItemDetailComponent
+        ...navigatableComponents
     ],
     providers: [
-        ItemService
-    ],
-    schemas: [
-        NO_ERRORS_SCHEMA
     ]
 })
-/*
-Pass your application module to the bootstrapModule function located in main.ts to start your app
-*/
+
 export class AppModule { }
