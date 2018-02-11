@@ -10,6 +10,7 @@ registerElement("Mapbox", () => map.Mapbox);
 
 import { AppComponent } from "./app.component";
 import {routes, navigatableComponents} from "./app.routing";
+import {FlickrService} from "./services/flickr.service";
 
 @NgModule({
     bootstrap: [
@@ -27,6 +28,7 @@ import {routes, navigatableComponents} from "./app.routing";
         ...navigatableComponents
     ],
     providers: [
+      FlickrService
     ]
 })
 
