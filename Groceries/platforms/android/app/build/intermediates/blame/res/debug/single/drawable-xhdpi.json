@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\delete.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nonselected.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\nonselected.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\selected.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\selected.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unchecked.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\unchecked.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_signup.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\logo_signup.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_login.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\logo_login.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checked_white.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\checked_white.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pear.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\pear.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unchecked_white.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\unchecked_white.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\menu.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\apple.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\apple.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\banana.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\banana.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\recent.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\recent.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checked.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\Groceries\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\checked.png"
+    }
+]

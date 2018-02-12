@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\geoff\.android\build-cache\e882e6849b515981d6ae746a1f26353eb69fdf18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\BopPoly\Source\Angular\NativeScript\Groceries\platforms\android\app\build\intermediates\pre-dexed\debug\classes_1c2e3173c0554867ba5e93be98a4e74977271ea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\geoff\.android\build-cache\5cf8362dc56c66f80e7c09fd674df4ed1ce2c18d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\BopPoly\Source\Angular\NativeScript\Groceries\platforms\android\app\build\intermediates\pre-dexed\debug\classes_2c5c873bbb7242d24c3019abd43ec1048e64b428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\geoff\.android\build-cache\689c4bb3ff4f458354453a8758ca7d1399e354da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="D:\BopPoly\Source\Angular\NativeScript\Groceries\platforms\android\app\build\intermediates\pre-dexed\debug\classes_a1e300a4caac8794bfe763a7cded22e85f34d844.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\BopPoly\Source\Angular\NativeScript\Groceries\platforms\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_7c88aee63584960575018a7d0454b660043aaeb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\geoff\.android\build-cache\42d34ebcf0c7e168ea7c889d3d909ff2e18428a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\BopPoly\Source\Angular\NativeScript\Groceries\platforms\android\app\build\intermediates\pre-dexed\debug\classes_c277a81bc0c90d868d73b9f846ef2f5cdc683ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\geoff\.android\build-cache\823ee97bc5e60f6c4aa3d926361ed63d2d5eda40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\BopPoly\Source\Angular\NativeScript\Groceries\platforms\android\app\build\intermediates\pre-dexed\debug\classes_bb347286b22e745ac6549e5085a17eedd43428b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\geoff\.android\build-cache\a5752d381898059405bab67da69a5c012cb6a28d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\BopPoly\Source\Angular\NativeScript\Groceries\platforms\android\app\build\intermediates\pre-dexed\debug\classes_786be464bb774c8ff0f7f138294d964cdfcd4cc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\geoff\.android\build-cache\6e5b9157f8f5774abdfecfb0685cce301569a022\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="D:\BopPoly\Source\Angular\NativeScript\Groceries\platforms\android\app\build\intermediates\pre-dexed\debug\classes_4c1258f80b9be4d8c0995c035de400e73ddefbed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\geoff\.android\build-cache\e974dc7960a96497beda1563bd3bda1a01464cfc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\BopPoly\Source\Angular\NativeScript\Groceries\platforms\android\app\build\intermediates\pre-dexed\debug\classes_e1755814391758aa01e4289d8b2e6cc47af567f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\geoff\.android\build-cache\0bde32633869a8c629f5d28f1096ba2b22e5af40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\BopPoly\Source\Angular\NativeScript\Groceries\platforms\android\app\build\intermediates\pre-dexed\debug\classes_cb842d62dbba619d4a5f137635f6cb016fbc0b58.jar" />
+    </item>
+
+</items>
