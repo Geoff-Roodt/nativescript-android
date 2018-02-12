@@ -6,10 +6,6 @@ D:\BopPoly\Source\Angular\NativeScript\GeoPhotoProjec\platforms\android\app\src\
 D:\BopPoly\Source\Angular\NativeScript\GeoPhotoProjec\platforms\android\app\src\main\assets\app\main.js
 D:\BopPoly\Source\Angular\NativeScript\GeoPhotoProjec\platforms\android\app\src\main\assets\app\components\image-component\image.component.js
 D:\BopPoly\Source\Angular\NativeScript\GeoPhotoProjec\platforms\android\app\src\main\assets\app\components\imagesList-component\imagesList.component.js
-D:\BopPoly\Source\Angular\NativeScript\GeoPhotoProjec\platforms\android\app\src\main\assets\app\item\item-detail.component.js
-D:\BopPoly\Source\Angular\NativeScript\GeoPhotoProjec\platforms\android\app\src\main\assets\app\item\item.js
-D:\BopPoly\Source\Angular\NativeScript\GeoPhotoProjec\platforms\android\app\src\main\assets\app\item\item.service.js
-D:\BopPoly\Source\Angular\NativeScript\GeoPhotoProjec\platforms\android\app\src\main\assets\app\item\items.component.js
 D:\BopPoly\Source\Angular\NativeScript\GeoPhotoProjec\platforms\android\app\src\main\assets\app\models\getInfoResponse.js
 D:\BopPoly\Source\Angular\NativeScript\GeoPhotoProjec\platforms\android\app\src\main\assets\app\models\photoSearchResponse.js
 D:\BopPoly\Source\Angular\NativeScript\GeoPhotoProjec\platforms\android\app\src\main\assets\app\services\flickr.service.js
