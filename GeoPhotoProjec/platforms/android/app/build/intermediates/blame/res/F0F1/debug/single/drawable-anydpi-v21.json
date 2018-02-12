@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\0e709189692367bbce45f54a9300925faece2278\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\0e709189692367bbce45f54a9300925faece2278\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-anydpi-v21\\mapbox_info_icon_default.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\0c1edc52a28ac6e1ba9477928b82bf9ec5b777cc\\output\\res\\drawable-anydpi-v21\\mapbox_info_icon_default.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-anydpi-v21\\mapbox_info_icon_selected.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\0c1edc52a28ac6e1ba9477928b82bf9ec5b777cc\\output\\res\\drawable-anydpi-v21\\mapbox_info_icon_selected.xml"
+    }
+]

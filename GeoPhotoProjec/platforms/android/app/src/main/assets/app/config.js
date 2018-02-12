@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Config = {
+    Flickr: {
+        CLIENT_ID: "fb5c1855e2624e07206d187429743f96",
+        API_URL: "https://api.flickr.com/services/rest/?"
+    },
+    MapBox: {
+        ACCESS_TOKEN: "sk.eyJ1IjoieWF3ZWlnbmFzaWEiLCJhIjoiY2pkamV0ajU2MW40ZzJxcDRmczQ5cGh6eiJ9.CvR4xo7KrF7b12YKs38b2Q"
+    }
+};
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29uZmlnLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiY29uZmlnLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQWEsUUFBQSxNQUFNLEdBQUc7SUFDcEIsTUFBTSxFQUFFO1FBQ04sU0FBUyxFQUFFLGtDQUFrQztRQUM3QyxPQUFPLEVBQUUsd0NBQXdDO0tBQ2xEO0lBQ0QsTUFBTSxFQUFDO1FBQ0wsWUFBWSxFQUFFLGdHQUFnRztLQUMvRztDQUNGLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY29uc3QgQ29uZmlnID0ge1xyXG4gIEZsaWNrcjoge1xyXG4gICAgQ0xJRU5UX0lEOiBcImZiNWMxODU1ZTI2MjRlMDcyMDZkMTg3NDI5NzQzZjk2XCIsXHJcbiAgICBBUElfVVJMOiBcImh0dHBzOi8vYXBpLmZsaWNrci5jb20vc2VydmljZXMvcmVzdC8/XCJcclxuICB9LFxyXG4gIE1hcEJveDp7XHJcbiAgICBBQ0NFU1NfVE9LRU46IFwic2suZXlKMUlqb2llV0YzWldsbmJtRnphV0VpTENKaElqb2lZMnBrYW1WMGFqVTJNVzQwWnpKeGNEUm1jelE1Y0doNmVpSjkuQ3ZSNHhvN0tyRjdiMTJZS3MzOGIyUVwiXHJcbiAgfVxyXG59O1xyXG4iXX0=

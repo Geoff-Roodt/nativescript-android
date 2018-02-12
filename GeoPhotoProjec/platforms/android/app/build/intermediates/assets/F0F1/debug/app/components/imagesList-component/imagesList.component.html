@@ -1,0 +1,39 @@
+<ActionBar title="Photos" class="action-bar"></ActionBar>
+<StackLayout>
+
+  <!-- column asterisk denotes each row to take full screen width. -->
+  <!-- row asterisk denotes the bottom row to have a height of 280 and top row takes up remaining part of screen -->
+
+  <!-- The input and output binding is Angular -->
+
+  <GridLayout columns="*" rows="*, 280">
+
+    <ListView [items]="photos" row="0" col="0" class="list-group" (itemTap)="centerMap($event)">
+      <template let-item="item">
+        <GridLayout columns="auto, *" rows="auto" class="list-group-item">
+          <Image [src]="item.url_q" width="50" height="50" col="0" class="thumb-img-rounded"></image>
+          <StackLayout row="0" col="1">
+            <Label [text]="item.distance + ' away'" class="list-group-item-heading"></label>
+            <Label [text]="item.title" class="list-group-item-text" textWrap="true"></label>
+          </StackLayout>
+        </GridLayout>
+      </template>
+    </listview>
+
+    <!-- The content view will hold the map of the pictures location -->
+    <ContentView row="1" col="0">
+      <Mapbox
+        accessToken="{{mapboxKey}}"
+        mapStyle="streets"
+        zoomLevel="17"
+        latitude="52.3702160"
+        longitude="4.8951680"
+        hideLogo="true"
+        showUserLocation="true"
+        (mapReady)="onMapReady($event)">
+      </Mapbox>
+    </ContentView>
+
+  </GridLayout>
+  
+</StackLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\logo.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\icon.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\background.png",
+        "source": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    }
+]

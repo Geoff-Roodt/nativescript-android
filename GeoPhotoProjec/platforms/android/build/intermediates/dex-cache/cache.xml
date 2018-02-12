@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\geoff\.android\build-cache\460d429e3d50941f5548fc77f39761e2dcfb784e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="D:\BopPoly\Source\Angular\NativeScript\GeoPhotoProjec\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_a0c3563f6f74bb257f5b8e7b2095951411b4ac04.jar" />
+    </item>
+
+</items>

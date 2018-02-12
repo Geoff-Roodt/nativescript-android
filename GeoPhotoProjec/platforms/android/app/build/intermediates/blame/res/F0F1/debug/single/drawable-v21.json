@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\0e709189692367bbce45f54a9300925faece2278\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\0e709189692367bbce45f54a9300925faece2278\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\625173e68ba997c8aeed2620106f9d9ac8e1f347\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\0e709189692367bbce45f54a9300925faece2278\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\625173e68ba997c8aeed2620106f9d9ac8e1f347\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\0e709189692367bbce45f54a9300925faece2278\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\5f136cea87a6ea1c5afb576a892d0e10bd243a18\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\625173e68ba997c8aeed2620106f9d9ac8e1f347\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

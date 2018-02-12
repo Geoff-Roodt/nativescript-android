@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\625173e68ba997c8aeed2620106f9d9ac8e1f347\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\0e709189692367bbce45f54a9300925faece2278\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\625173e68ba997c8aeed2620106f9d9ac8e1f347\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\625173e68ba997c8aeed2620106f9d9ac8e1f347\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\625173e68ba997c8aeed2620106f9d9ac8e1f347\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\625173e68ba997c8aeed2620106f9d9ac8e1f347\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\625173e68ba997c8aeed2620106f9d9ac8e1f347\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\625173e68ba997c8aeed2620106f9d9ac8e1f347\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\625173e68ba997c8aeed2620106f9d9ac8e1f347\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\geoff\\.android\\build-cache\\625173e68ba997c8aeed2620106f9d9ac8e1f347\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    }
+]
