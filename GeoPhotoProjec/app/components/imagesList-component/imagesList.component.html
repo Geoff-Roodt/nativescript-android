@@ -1,5 +1,6 @@
-<ActionBar title="Photos" class="action-bar"></ActionBar>
+<ActionBar title="Photos Near Me" class="action-bar"></ActionBar>
 <StackLayout>
+    <Button text="Get Photos" tap="syncPhotos($event)"></Button>
     <GridLayout columns="*" rows="*, 280">
         <ListView [items]="photos" row="0" col="0" class="list-group" (itemTap)="centerMap($event)">
             <ng-template let-item="item">
@@ -17,8 +18,8 @@
                 accessToken="{{ mapboxKey }}"
                 mapStyle="streets"
                 zoomLevel="17"
-                latitude="52.3702160"
-                longitude="4.8951680"
+                latitude="-37.693249"
+                longitude="176.108302"
                 hideLogo="true"
                 showUserLocation="true"
                 (mapReady)="onMapReady($event)">

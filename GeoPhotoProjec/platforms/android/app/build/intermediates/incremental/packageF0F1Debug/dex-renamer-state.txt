@@ -1,4 +1,4 @@
-#Mon Feb 12 14:48:27 NZDT 2018
+#Tue Feb 13 09:30:44 NZDT 2018
 base.0=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\F0F1\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\F0F1\\debug\\folders\\1000\\1f\\main\\classes.dex

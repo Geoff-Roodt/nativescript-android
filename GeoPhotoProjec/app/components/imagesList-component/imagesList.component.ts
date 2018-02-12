@@ -19,7 +19,9 @@ export class ImagesListComponent {
   public mapboxKey: string;
   public photos: PhotoSearchResponse[];
 
-  public constructor(private flickrService:FlickrService, private geolocationService: GeolocationService, private zone:NgZone, private router: Router){ }
+  public constructor(private flickrService:FlickrService, private geolocationService: GeolocationService, private zone:NgZone, private router: Router){
+    this.mapboxKey = Config.MapBox.ACCESS_TOKEN;
+  }
 
   public onMapReady(args){
     this.mapbox = args.map;
@@ -68,6 +70,18 @@ export class ImagesListComponent {
 
   public loadPhotos(){
     return this.flickrService.photoSearch(this.geolocationService.latitude, this.geolocationService.longitude);
+  }
+
+  public syncPhotos(args: any){
+    this.geolocationService.getLocation().then(() => {
+      this.loadPhotos().subscribe(photos => {
+        this.photos = photos.map((photo) => {
+          photo.distance = this.geolocationService.getDistanceFrom(parseFloat(photo.latitude), parseFloat(photo.longitude));
+          return photo;
+        });
+      },
+      error => console.log(error));
+    });
   }
 
 }

@@ -19,7 +19,9 @@ export class ImagesListComponent {
   public mapboxKey: string;
   public photos: PhotoSearchResponse[];
 
-  public constructor(private flickrService:FlickrService, private geolocationService: GeolocationService, private zone:NgZone, private router: Router){ }
+  public constructor(private flickrService:FlickrService, private geolocationService: GeolocationService, private zone:NgZone, private router: Router){
+    this.mapboxKey = Config.MapBox.ACCESS_TOKEN;
+  }
 
   public onMapReady(args){
     this.mapbox = args.map;

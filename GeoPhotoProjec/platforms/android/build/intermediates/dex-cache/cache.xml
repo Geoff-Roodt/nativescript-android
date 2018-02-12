@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\geoff\.android\build-cache\b32f5137ba46b274c450722aaafbb537974bc2c2\output\jars\classes.jar"
+        jar="C:\Users\geoff\.android\build-cache\3d754f8ce0c1dd434a0d70c546a1fed7358507ec\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="746274223beb11b1cda7854d7eec3038695c2c93">
-        <dex dex="D:\BopPoly\Source\Angular\NativeScript\GeoPhotoProjec\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_f1259f2d489f81b7b521f83ed7819ae65c002a89.jar" />
+        <dex dex="D:\BopPoly\Source\Angular\NativeScript\GeoPhotoProjec\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_65f9ce9b47ad20726cad7611f52b254cbea1d67b.jar" />
     </item>
 
 </items>
