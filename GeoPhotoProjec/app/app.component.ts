@@ -1,4 +1,6 @@
 import { Component } from "@angular/core";
+import {ImagesListComponent} from "./components/imagesList-component/imagesList.component";
+import {ImageComponent} from "./components/image-component/image.component";
 
 @Component({
     selector: "main",
@@ -6,3 +8,11 @@ import { Component } from "@angular/core";
 })
 
 export class AppComponent { }
+
+export const routes = [
+  {path: "", component: ImagesListComponent}
+];
+
+export const navigatableComponents = [
+  ImagesListComponent
+];

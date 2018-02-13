@@ -4,7 +4,9 @@ import {ActivatedRoute} from "@angular/router";
 import {FlickrService} from "../../services/flickr.service";
 
 @Component({
-  templateUrl: "components/image-component/image.component.html"
+  selector: "image-component",
+  templateUrl: "components/image-component/image.component.html",
+  providers: [FlickrService]
 })
 
 export class ImageComponent implements OnInit{

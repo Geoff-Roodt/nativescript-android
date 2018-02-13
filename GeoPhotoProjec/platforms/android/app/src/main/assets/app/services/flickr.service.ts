@@ -13,7 +13,7 @@ export class FlickrService{
   public constructor(private http:Http){}
 
   public photoSearch(lat: number, lon: number):Observable<PhotoSearchResponse[]>{
-
+    console.log("ENTERED INTO PHOTOSEARCH FLICKR SERVICE");
     let url = `${Config.Flickr.API_URL}method=flickr.photos.search&api_key=${Config.Flickr.CLIENT_ID}&content_type=1&lat=${lat}&lon=${lon}&extras=url_q,geo&format=json&nojsoncallback=1`;
 
     return this.http.get(url).map(response => response.json().photos.photo).catch(err => Observable.throw(err));

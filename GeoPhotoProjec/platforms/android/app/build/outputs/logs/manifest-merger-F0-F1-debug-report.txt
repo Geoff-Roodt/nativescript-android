@@ -39,7 +39,7 @@ MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-locationlayer:0.3.0] C:\
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] C:\Users\geoff\.android\build-cache\0c1edc52a28ac6e1ba9477928b82bf9ec5b777cc\output\AndroidManifest.xml:6:5-9:51
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:2.2.9] C:\Users\geoff\.android\build-cache\a431a149a9cdbb71210d423b3e55e3fe4d1f091e\output\AndroidManifest.xml:8:5-11:51
 MERGED from [com.jakewharton.timber:timber:4.6.0] C:\Users\geoff\.android\build-cache\0efc580a36e7182bdd031638ab025d9dd82c7990\output\AndroidManifest.xml:6:5-43
-MERGED from [:nativescript-optimized:] C:\Users\geoff\.android\build-cache\3d754f8ce0c1dd434a0d70c546a1fed7358507ec\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized:] C:\Users\geoff\.android\build-cache\72aa99d0c2ec907bd43ce62e124ca465612c5d14\output\AndroidManifest.xml:7:5-9:41
 MERGED from [:widgets-release:] C:\Users\geoff\.android\build-cache\023ffe5ac987890faf90219a78f593123d1bf3cc\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\geoff\.android\build-cache\0e709189692367bbce45f54a9300925faece2278\output\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\geoff\.android\build-cache\625173e68ba997c8aeed2620106f9d9ac8e1f347\output\AndroidManifest.xml:20:5-44

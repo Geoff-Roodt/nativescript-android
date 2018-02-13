@@ -1,4 +1,6 @@
-<ActionBar title="Photos Near Me" class="action-bar"></ActionBar>
+<ActionBar title="Photos Near Me" class="action-bar">
+  <ActionItem text="Photos" (tap)="syncPhotos()" android.systemIcon="ic_menu_sync_holo_dark"></ActionItem>
+</ActionBar>
 <StackLayout>
     <Button text="Get Photos" tap="syncPhotos($event)"></Button>
     <GridLayout columns="*" rows="*, 280">

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Feb 13 09:30:47 NZDT 2018
+#Tue Feb 13 16:40:22 NZDT 2018
 2385.set=ASSET
 3093.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\nativescript-theme-core\\scss\\_lime.scss
 4800.set=ASSET
@@ -2795,7 +2795,7 @@
 2081.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\@angular\\common\\locales\\he.js.map
 583.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\rxjs\\src\\operators\\zip.ts
 2253.set=ASSET
-1607.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
+1607.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png
 4169.set=ANDROID_RESOURCE
 6825.base=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
 7215.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\@angular\\common\\locales\\extra\\en-PK.d.ts
@@ -3688,7 +3688,7 @@
 955.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\@angular\\common\\locales\\ar-ER.js
 7671.base=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
 7107.base=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
-1480.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png
+1480.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png
 2398.set=ASSET
 6134.base=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
 6614.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\@angular\\common\\src\\location\\platform_location.d.ts
@@ -3837,7 +3837,7 @@
 3680.base=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
 4070.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\zone.js\\LICENSE
 2425.set=ANDROID_RESOURCE
-1589.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\drawable\\abc_ratingbar_small_material.xml
+1589.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\layout\\abc_select_dialog_material.xml
 3989.set=ASSET
 7197.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\intl\\locale-data\\jsonp\\ar-SD.js
 645.base=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
@@ -13375,7 +13375,7 @@ count=7775
 4543.base=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
 3570.base=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
 1325.set=ASSET
-1479.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png
+1479.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png
 2889.set=ASSET
 6697.base=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
 7087.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\@angular\\common\\locales\\extra\\sr-Latn.d.ts
@@ -14887,7 +14887,7 @@ count=7775
 4652.base=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_
 5042.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\intl\\locale-data\\jsonp\\en-NL.js
 2415.set=ASSET
-1588.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\layout\\abc_select_dialog_material.xml
+1588.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\drawable\\abc_ratingbar_small_material.xml
 3979.set=ASSET
 7196.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\@angular\\common\\locales\\ar-EH.js
 644.base=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
@@ -15085,7 +15085,7 @@ count=7775
 2082.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\rxjs\\add\\operator\\finally.js.map
 584.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\tslib\\tslib.html
 2263.set=ASSET
-1608.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png
+1608.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\res\\resources-F0-F1-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
 4179.set=ASSET
 6826.base=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug
 7216.file=D\:\\BopPoly\\Source\\Angular\\NativeScript\\GeoPhotoProjec\\platforms\\android\\app\\build\\intermediates\\assets\\F0F1\\debug\\app\\tns_modules\\@angular\\platform-browser\\esm5\\testing.js.map
