@@ -1,9 +1,9 @@
 {
-	"time": "Tue Feb 13 2018 16:37:38 GMT+1300 (New Zealand Summer Time)",
+	"time": "Tue Feb 13 2018 16:52:46 GMT+1300 (New Zealand Summer Time)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
-	"changesRequireBuild": true,
+	"changesRequireBuild": false,
 	"projectFileHash": "174f095c22d4393894971a8e3006167d5c38d25b9c74cacdac635b3e5cbef6e6",
 	"changesRequireBuildTime": "Tue Feb 13 2018 16:37:38 GMT+1300 (New Zealand Summer Time)"
 }
