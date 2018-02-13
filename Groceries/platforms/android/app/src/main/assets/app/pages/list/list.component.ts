@@ -22,7 +22,7 @@ export class ListComponent implements OnInit {
   groceryList: Array<Grocery> = [];
   @ViewChild("groceryTextField") groceryTextField: ElementRef;
 
-  constructor(private groceryListService: GroceryListService){}
+  constructor(private groceryListService: GroceryListService){ }
 
   ngOnInit() {
     this.isLoading = true;

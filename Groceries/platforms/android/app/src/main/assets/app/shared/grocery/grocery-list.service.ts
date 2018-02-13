@@ -51,4 +51,11 @@ export class GroceryListService {
     .map(data => { return new Grocery(data._id, name); })
     .catch(this.handleErrors);
   }
+
+  delete(id: string){
+    return this.http.delete(this.baseUrl + "/" + id, {headers: this.getCommonHeaders()})
+    .map(res => res.json())
+    .catch(this.handleErrors);
+  }
+
 }
