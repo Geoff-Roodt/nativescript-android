@@ -46,7 +46,7 @@ export class GroceryListService {
   }
 
   add(name: string){
-    return this.http.post(this.baseUrl, JSON.stringif({Name: name}), {headers: this.getCommonHeaders()})
+    return this.http.post(this.baseUrl, JSON.stringify({Name: name}), {headers: this.getCommonHeaders()})
     .map(res => res.json())
     .map(data => { return new Grocery(data._id, name); })
     .catch(this.handleErrors);
